@@ -635,20 +635,12 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/qure/color/LA_Map.png"
     },
     {
-      "name": "LOL",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/qure/color/LOL.png"
-    },
-    {
       "name": "Lab",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/qure/color/Lab.png"
     },
     {
       "name": "Lambda",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/qure/color/Lambda.png"
-    },
-    {
-      "name": "League_of_Legends",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/qure/color/League_of_Legends.png"
     },
     {
       "name": "LiTV",
@@ -673,10 +665,6 @@
     {
       "name": "Loop",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/qure/color/Loop.png"
-    },
-    {
-      "name": "Luffy",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/qure/color/Luffy.png"
     },
     {
       "name": "MO",
@@ -769,10 +757,6 @@
     {
       "name": "Notion",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/qure/color/Notion.png"
-    },
-    {
-      "name": "Null_Nation",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/qure/color/Null_Nation.png"
     },
     {
       "name": "Oceania_Map",
@@ -885,10 +869,6 @@
     {
       "name": "Puzzle",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/qure/color/Puzzle.png"
-    },
-    {
-      "name": "QQ",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/qure/color/QQ.png"
     },
     {
       "name": "Quantumult_X",
@@ -1069,10 +1049,6 @@
     {
       "name": "Taiwan",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/qure/color/Taiwan.png"
-    },
-    {
-      "name": "Taobao",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/qure/color/Taobao.png"
     },
     {
       "name": "Telegram",
@@ -1311,10 +1287,6 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/airport.png"
     },
     {
-      "name": "alipay",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/alipay.png"
-    },
-    {
       "name": "amy",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/amy.png"
     },
@@ -1381,10 +1353,6 @@
     {
       "name": "bitcloud",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/bitcloud.png"
-    },
-    {
-      "name": "blibee",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/blibee.png"
     },
     {
       "name": "blink",
@@ -1463,10 +1431,6 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/de.png"
     },
     {
-      "name": "dingtalk",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/dingtalk.png"
-    },
-    {
       "name": "discovery",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/discovery.png"
     },
@@ -1509,10 +1473,6 @@
     {
       "name": "fastlink",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/fastlink.png"
-    },
-    {
-      "name": "fcz",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/fcz.png"
     },
     {
       "name": "final",
