@@ -3,38 +3,6 @@
   "description": "适用于Sub-Store的机场图标库",
   "icons": [
     {
-      "name": "10000",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/10000.png"
-    },
-    {
-      "name": "10010",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/10010.png"
-    },
-    {
-      "name": "10086",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/10086.png"
-    },
-    {
-      "name": "10086fee",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/10086fee.png"
-    },
-    {
-      "name": "115",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/115.png"
-    },
-    {
-      "name": "12306",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/12306.png"
-    },
-    {
-      "name": "163gamevip",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/163gamevip.png"
-    },
-    {
-      "name": "52pj",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/52pj.png"
-    },
-    {
       "name": "aaex",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/aaex.png"
     },
@@ -171,10 +139,6 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/caiyun.png"
     },
     {
-      "name": "calendar",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/calendar.png"
-    },
-    {
       "name": "carair",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/carair.png"
     },
@@ -223,28 +187,12 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/cord.png"
     },
     {
-      "name": "covid-19",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/covid-19.png"
-    },
-    {
       "name": "csdn",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/csdn.png"
     },
     {
-      "name": "ctrip",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/ctrip.png"
-    },
-    {
       "name": "cylink",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/cylink.png"
-    },
-    {
-      "name": "daysmatter",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/daysmatter.png"
-    },
-    {
-      "name": "dbsj",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/dbsj.png"
     },
     {
       "name": "de",
@@ -257,10 +205,6 @@
     {
       "name": "dianshijia",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/dianshijia.png"
-    },
-    {
-      "name": "didi",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/didi.png"
     },
     {
       "name": "dingtalk",
@@ -283,32 +227,8 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/dlk.png"
     },
     {
-      "name": "domino",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/domino.png"
-    },
-    {
-      "name": "dongqiudi",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/dongqiudi.png"
-    },
-    {
-      "name": "douyu",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/douyu.png"
-    },
-    {
       "name": "duang",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/duang.png"
-    },
-    {
-      "name": "dukou",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/dukou.png"
-    },
-    {
-      "name": "duokan",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/duokan.png"
-    },
-    {
-      "name": "elem",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/elem.png"
     },
     {
       "name": "element",
@@ -367,14 +287,6 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/fcz.png"
     },
     {
-      "name": "feng",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/feng.png"
-    },
-    {
-      "name": "fenqile",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/fenqile.png"
-    },
-    {
       "name": "final",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/final.png"
     },
@@ -385,10 +297,6 @@
     {
       "name": "flyertea",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/flyertea.png"
-    },
-    {
-      "name": "flyint",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/flyint.png"
     },
     {
       "name": "fr",
@@ -447,20 +355,8 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/guguex.png"
     },
     {
-      "name": "haidilao",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/haidilao.png"
-    },
-    {
       "name": "hbo",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/hbo.png"
-    },
-    {
-      "name": "hdhyc",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/hdhyc.png"
-    },
-    {
-      "name": "hellbike",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/hellbike.png"
     },
     {
       "name": "heybox",
@@ -469,10 +365,6 @@
     {
       "name": "hidden",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/hidden.png"
-    },
-    {
-      "name": "historytoday",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/historytoday.png"
     },
     {
       "name": "hitun",
@@ -503,10 +395,6 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/hycan.png"
     },
     {
-      "name": "icbc",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/icbc.png"
-    },
-    {
       "name": "idaily",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/idaily.png"
     },
@@ -519,48 +407,8 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/instagram.png"
     },
     {
-      "name": "iqiyi",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/iqiyi.png"
-    },
-    {
-      "name": "ithome",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/ithome.png"
-    },
-    {
-      "name": "jd",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/jd.png"
-    },
-    {
-      "name": "jdczf",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/jdczf.png"
-    },
-    {
-      "name": "jddj",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/jddj.png"
-    },
-    {
-      "name": "jdds",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/jdds.png"
-    },
-    {
-      "name": "jegotrip",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/jegotrip.png"
-    },
-    {
-      "name": "jingxi",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/jingxi.png"
-    },
-    {
-      "name": "jiumu",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/jiumu.png"
-    },
-    {
       "name": "jp",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/jp.png"
-    },
-    {
-      "name": "jrtt",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/jrtt.png"
     },
     {
       "name": "kache",
@@ -599,24 +447,8 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/lkyl.png"
     },
     {
-      "name": "lol",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/lol.png"
-    },
-    {
       "name": "loon",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/loon.png"
-    },
-    {
-      "name": "lxhealth",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/lxhealth.png"
-    },
-    {
-      "name": "lxsj",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/lxsj.png"
-    },
-    {
-      "name": "manga",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/manga.png"
     },
     {
       "name": "manual",
@@ -635,24 +467,12 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/maying.png"
     },
     {
-      "name": "mcdd",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/mcdd.png"
-    },
-    {
       "name": "mdss",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/mdss.png"
     },
     {
-      "name": "meituan",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/meituan.png"
-    },
-    {
       "name": "mgnb",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/mgnb.png"
-    },
-    {
-      "name": "mgtv",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/mgtv.png"
     },
     {
       "name": "miao",
@@ -661,14 +481,6 @@
     {
       "name": "microsoft",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/microsoft.png"
-    },
-    {
-      "name": "midu",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/midu.png"
-    },
-    {
-      "name": "mihoyo",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/mihoyo.png"
     },
     {
       "name": "mimemi",
@@ -695,24 +507,8 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/muchong.png"
     },
     {
-      "name": "mydigit",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/mydigit.png"
-    },
-    {
-      "name": "mygmc",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/mygmc.png"
-    },
-    {
       "name": "n3ro",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/n3ro.png"
-    },
-    {
-      "name": "naixue",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/naixue.png"
-    },
-    {
-      "name": "nasa",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/nasa.png"
     },
     {
       "name": "netease",
@@ -723,20 +519,12 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/neteasemusic.png"
     },
     {
-      "name": "neteasenews",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/neteasenews.png"
-    },
-    {
       "name": "netflix",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/netflix.png"
     },
     {
       "name": "nex",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/nex.png"
-    },
-    {
-      "name": "nfzm",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/nfzm.png"
     },
     {
       "name": "nga",
@@ -763,14 +551,6 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/nucleus.png"
     },
     {
-      "name": "nyancat",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/nyancat.png"
-    },
-    {
-      "name": "oclean",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/oclean.png"
-    },
-    {
       "name": "orz-3",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/orz-3.png"
     },
@@ -781,10 +561,6 @@
     {
       "name": "pacifique",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/pacifique.png"
-    },
-    {
-      "name": "pagoda",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/pagoda.png"
     },
     {
       "name": "paoluz",
@@ -835,64 +611,8 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/psn.png"
     },
     {
-      "name": "pupu",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/pupu.png"
-    },
-    {
-      "name": "qcrane",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/qcrane.png"
-    },
-    {
-      "name": "qczj",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/qczj.png"
-    },
-    {
-      "name": "qimao",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/qimao.png"
-    },
-    {
-      "name": "qktx",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/qktx.png"
-    },
-    {
-      "name": "qkyl",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/qkyl.png"
-    },
-    {
-      "name": "qmkg",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/qmkg.png"
-    },
-    {
-      "name": "qq",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/qq.png"
-    },
-    {
-      "name": "qqmusic",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/qqmusic.png"
-    },
-    {
-      "name": "qqread",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/qqread.png"
-    },
-    {
-      "name": "qqvip",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/qqvip.png"
-    },
-    {
-      "name": "qtt",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/qtt.png"
-    },
-    {
       "name": "quantumultx",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/quantumultx.png"
-    },
-    {
-      "name": "qunar",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/qunar.png"
-    },
-    {
-      "name": "quwalk",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/quwalk.png"
     },
     {
       "name": "renzhe",
@@ -911,10 +631,6 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/roundrobin.png"
     },
     {
-      "name": "rrtv",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/rrtv.png"
-    },
-    {
       "name": "ru",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/ru.png"
     },
@@ -925,10 +641,6 @@
     {
       "name": "sdc",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/sdc.png"
-    },
-    {
-      "name": "sfexpress",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/sfexpress.png"
     },
     {
       "name": "sg",
@@ -943,10 +655,6 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/shandian.png"
     },
     {
-      "name": "sinanews",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/sinanews.png"
-    },
-    {
       "name": "situ",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/situ.png"
     },
@@ -959,16 +667,8 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/skicat.png"
     },
     {
-      "name": "smzdm",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/smzdm.png"
-    },
-    {
       "name": "socloud",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/socloud.png"
-    },
-    {
-      "name": "sony",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/sony.png"
     },
     {
       "name": "speedtest",
@@ -1007,14 +707,6 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/static.png"
     },
     {
-      "name": "stc",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/stc.png"
-    },
-    {
-      "name": "steam",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/steam.png"
-    },
-    {
       "name": "streaming",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/streaming.png"
     },
@@ -1037,10 +729,6 @@
     {
       "name": "sun",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/sun.png"
-    },
-    {
-      "name": "suning",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/suning.png"
     },
     {
       "name": "surge",
@@ -1075,24 +763,12 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/th.png"
     },
     {
-      "name": "thg",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/thg.png"
-    },
-    {
       "name": "tianhang",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/tianhang.png"
     },
     {
-      "name": "tieba",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/tieba.png"
-    },
-    {
       "name": "tiktok",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/tiktok.png"
-    },
-    {
-      "name": "time",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/time.png"
     },
     {
       "name": "tongc",
@@ -1119,10 +795,6 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/ttwkxcx.png"
     },
     {
-      "name": "tuhu",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/tuhu.png"
-    },
-    {
       "name": "tw",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/tw.png"
     },
@@ -1131,28 +803,8 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/twitter.png"
     },
     {
-      "name": "txnews",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/txnews.png"
-    },
-    {
       "name": "uk",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/uk.png"
-    },
-    {
-      "name": "umer",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/umer.png"
-    },
-    {
-      "name": "umetrip",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/umetrip.png"
-    },
-    {
-      "name": "un",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/un.png"
-    },
-    {
-      "name": "unipay",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/unipay.png"
     },
     {
       "name": "urltest",
@@ -1163,20 +815,12 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/us.png"
     },
     {
-      "name": "v2ex",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/v2ex.png"
-    },
-    {
       "name": "v2ray",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/v2ray.png"
     },
     {
       "name": "v2tun",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/v2tun.png"
-    },
-    {
-      "name": "videoqq",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/videoqq.png"
     },
     {
       "name": "vn",
@@ -1191,48 +835,12 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/wallless.png"
     },
     {
-      "name": "wanda",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/wanda.png"
-    },
-    {
       "name": "wave",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/wave.png"
     },
     {
-      "name": "weather",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/weather.png"
-    },
-    {
-      "name": "weibo",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/weibo.png"
-    },
-    {
       "name": "westdata",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/westdata.png"
-    },
-    {
-      "name": "wifi",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/wifi.png"
-    },
-    {
-      "name": "wmmeituan",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/wmmeituan.png"
-    },
-    {
-      "name": "wps",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/wps.png"
-    },
-    {
-      "name": "wsxq",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/wsxq.png"
-    },
-    {
-      "name": "wxdaka",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/wxdaka.png"
-    },
-    {
-      "name": "wykl",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/wykl.png"
     },
     {
       "name": "xair",
@@ -1241,14 +849,6 @@
     {
       "name": "xd",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/xd.png"
-    },
-    {
-      "name": "xiaomiyp",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/xiaomiyp.png"
-    },
-    {
-      "name": "ximalaya",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/ximalaya.png"
     },
     {
       "name": "xingmeng",
@@ -1261,22 +861,6 @@
     {
       "name": "xxys",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/xxys.png"
-    },
-    {
-      "name": "yanxuan",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/yanxuan.png"
-    },
-    {
-      "name": "yili",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/yili.png"
-    },
-    {
-      "name": "ymatou",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/ymatou.png"
-    },
-    {
-      "name": "youth",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/youth.png"
     },
     {
       "name": "youtube",
@@ -1295,44 +879,12 @@
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/ywhl.png"
     },
     {
-      "name": "yzkb",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/yzkb.png"
-    },
-    {
       "name": "zaker",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/zaker.png"
     },
     {
       "name": "zhs",
       "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/zhs.png"
-    },
-    {
-      "name": "zimuzu",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/zimuzu.png"
-    },
-    {
-      "name": "zmteacher",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/zmteacher.png"
-    },
-    {
-      "name": "zongheng",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/zongheng.png"
-    },
-    {
-      "name": "zscdb",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/zscdb.png"
-    },
-    {
-      "name": "zsfc",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/zsfc.png"
-    },
-    {
-      "name": "zxhc",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/zxhc.png"
-    },
-    {
-      "name": "zymk",
-      "url": "https://raw.githubusercontent.com/MRLQ/ios_rule_script/master/icon/color/zymk.png"
     }
   ]
 }
