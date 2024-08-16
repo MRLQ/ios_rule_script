@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-08-15 02:10:04
-# DOMAIN: 16055
+# UPDATED: 2024-08-17 02:10:14
+# DOMAIN: 16065
 # DOMAIN-KEYWORD: 262
-# DOMAIN-SUFFIX: 157706
+# DOMAIN-SUFFIX: 157768
 # IP-CIDR: 467
 # IP-CIDR6: 1
-# TOTAL: 174491
+# TOTAL: 174563
 167.71.252.38
 213.8.137.51
 03.lzzncm.com
@@ -4127,6 +4127,7 @@ clicktripz.co
 clicktrkservices.com
 clickz.lonelycheatingwives.com
 clickzxc.com
+client.tahono.com
 clifftopper.com
 cljmarinq.com
 clkkcokl.com
@@ -4353,6 +4354,7 @@ cstfzgckbtrb.com
 cstmedia.com.cn
 cswilliamsburg.com
 csyjaajr.com
+ct.eid.co.nz
 ctcautobody.com
 ctdhylltfighs.com
 ctenetwork.com
@@ -14754,7 +14756,6 @@ consent.werner-mertz.de
 consent2.rheinische-anzeigenblaetter.de
 consentement.ouest-france.fr
 consenttool.haendlerbund.de
-consumerzero.com
 contemega.com.do
 content22.citi.eu
 controlhall.com
@@ -14816,6 +14817,7 @@ cyclopsdial.com
 d.lqrzc.com
 d.nnightkil.com
 d.provenexpert.net
+d15kdaxu5c0hfw.cloudfront.net
 d1izuvv2qy7hel.cloudfront.net
 d2eucw4fxv7nil.cloudfront.net
 d2n726m6x5iwwx.cloudfront.net
@@ -14823,8 +14825,13 @@ d2qhg50jab93jy.cloudfront.net
 d2t7a3zbo166a9.cloudfront.net
 d2u6dc21frjf6h.cloudfront.net
 d2yyd1h5u9mauk.cloudfront.net
+d2zue0pgsssbc6.cloudfront.net
 d36hsrzhv8pket.cloudfront.net
+d36u3psykfwy91.cloudfront.net
+d3bj8nkfly20uo.cloudfront.net
+d3pi0tys5sdysl.cloudfront.net
 d3plnp2f9sfye5.cloudfront.net
+d3qztsm17pgxue.cloudfront.net
 d3tu4h3aa52h5s.cloudfront.net
 daima.wauee.cc
 dandydune.com
@@ -14882,6 +14889,7 @@ download.pdf00.cn
 download.skycn.com
 downloadwasabi.is
 driftpizza.com
+drlimmode9ddd.cloudfront.net
 drollwharf.com
 druic.mytxt.cc
 druis.mytxt.cc
@@ -15103,6 +15111,7 @@ glowingmeadow.com
 gmeng.625323.com
 gn-flagpoles.api.bbci.co.uk
 goodbark.com
+gotie.tunein.com
 gracefulmilk.com
 graph-fallback.instagram.com
 graph.instagram.com
@@ -15545,6 +15554,7 @@ ours3care.com
 outgoinggiraffe.com
 outsidevibe.com
 oys0ro.static.otenet.gr
+p.lucida.to
 p.pstatp.com
 p6-ad-sign.byteimg.com
 pagamento.afya.com.br
@@ -16063,11 +16073,10 @@ zzyanhushi.com
 45.32.105.134
 77.162.125.199
 opencloud.wostore.cn
-+.4afa45f1.xyz
-+.5891344.xn--j1amh
-+.a908a849.xyz
++.09745951.xyz
 +.adfstat.yandex.ru
 +.ads.youtube.com
++.adservb.com
 +.amc.yandex.ru
 +.an.yandex.ru
 +.api.sec.miui.com
@@ -16081,60 +16090,94 @@ opencloud.wostore.cn
 +.applecare-icloud.com
 +.appleservenumeric.com
 +.applesometimes.com
++.asdfix.com
++.avbulb3431.fun
++.avgive3431.fun
 +.awsync.yandex.ru
 +.barbecueappledos.pw
 +.beacon.search.yahoo.com
 +.beap-bc.yahoo.com
++.bladespanel.com
 +.blueduckredapple.com
-+.c2a0076d.xyz
++.c26817682b.com
 +.c2shb.pubgw.yahoo.com
++.collector-pxebumdlwe.px-cdn.net
++.collector-pxebumdlwe.px-cloud.net
 +.conceitedfedapple.com
++.crakedquartin.com
 +.data.mistat.xiaomi.com
 +.dmg-dd.oss-accelerate.aliyuncs.com
++.doujs07.shop
++.drpggagxsz.com
++.dyqjndui.com
 +.email-apple.support
 +.fmiphone-apple.com
 +.fpb1.apple886.com
-+.fspddt.xyz
++.futharcconny.shop
++.groutoozy.com
++.gsuwrjqqfm.com
++.helmpa.xyz
++.hjcjymkto.com
 +.https-apple.com
 +.ib.snssdk.com
 +.idapple.com
-+.iqgessh.icu
++.idyllteapots.com
++.imkmurrvm.com
++.intelligentjump.com
++.izqeyo.xyz
++.jacwkbauzs.com
++.jewadvaj.com
 +.jpaasne.e.shifen.com
 +.juniorapplesconsonant.com
-+.koufqy.xyz
++.kdczhmain.com
++.kologyrtyndwean.info
++.kunnmvyftzgzvi.com
++.ljzcawea.icu
 +.log.strm.yandex.ru
 +.login-applecare.com
++.lumnxiel.top
 +.marketingsolutions.yahoo.com
 +.mediaappletree.com
 +.metrics.apple.com
-+.pefufv.xyz
++.nmtcxz.xyz
++.npbtnl.xyz
++.ohqduxhcuab.com
 +.pineappleconsideringpreference.com
++.pqjqtewve.com
 +.pr.comet.yahoo.com
++.rasurescaribou.com
++.readsubsequentlyspecimen.com
 +.redpineapplemedia.com
-+.rqr97sfd.xyz
++.rxansljurt.com
 +.securemvt.apple.com
 +.settlepineapple.com
-+.setupad.net
 +.shackapple.com
 +.share-apple.com
-+.shbzkgs.cn
-+.srutvncb.top
++.shbzigs.cn
 +.stapplebecaps.top
 +.stats.video.search.yahoo.com
 +.sub.powerapple.com
 +.theapple.site
++.trace.mjyx.com
 +.typicalappleashy.com
 +.uaas.yandex.ru
 +.udd1i5.zhihu.com
-+.uumnxiet.top
++.uhmcjdc.icu
++.unppnshe.com
++.vibetrogue.click
 +.view-apple.com
 +.visit.webhosting.yahoo.com
 +.vn-apple.com
-+.vzdkngmf.icu
++.vrgvugostlyhewo.info
 +.webc2s.pubgw.yahoo.com
 +.wondefulapplend.com
++.wrutvnce.top
 +.wzjs1.oss-accelerate.aliyuncs.com
++.xeqktyujlwlc.com
 +.yajnagrapple.top
++.yecxqqoywiidz.com
++.zaipousu.net
++.zakruxxita.com
 +.0.code.cotsta.ru
 +.0001.best
 +.0008d6ba2e.com
@@ -17234,6 +17277,7 @@ opencloud.wostore.cn
 +.2vaxwkujrfwh.info
 +.2vulkan.com
 +.2vv.cc
++.2x1gratis.com
 +.2xclick.ru
 +.2xmzazd.cn
 +.2yt.cn
@@ -17623,6 +17667,7 @@ opencloud.wostore.cn
 +.4a9517991d.com
 +.4aae8f.site
 +.4adtf.com
++.4afa45f1.xyz
 +.4affiliate.net
 +.4allclick.ru
 +.4allfree.com
@@ -17844,6 +17889,7 @@ opencloud.wostore.cn
 +.587tuchuang.com
 +.58802ce8d9.com
 +.588589.com
++.5891344.xn--j1amh
 +.58915e0a30.com
 +.589aa99d18.com
 +.58ar.com
@@ -17901,6 +17947,7 @@ opencloud.wostore.cn
 +.5dd044e588.com
 +.5dec6805a0.com
 +.5df20e46f3.com
++.5e1b8e9d68.com
 +.5e6ef8e03b.com
 +.5eb6d14cbe.com
 +.5ee16260b9.com
@@ -18872,6 +18919,7 @@ opencloud.wostore.cn
 +.a.fimoa.xyz
 +.a.flux.jp
 +.a.fobos.tv
++.a.groox.xyz
 +.a.guzhilin.com
 +.a.hbf23.cn
 +.a.herto.xyz
@@ -18892,6 +18940,7 @@ opencloud.wostore.cn
 +.a.partner-versicherung.de
 +.a.predictvideo.com
 +.a.prisacom.com
++.a.q2b2n4y4ghu320.shop
 +.a.qncye.net
 +.a.qunzou.com
 +.a.quora.com
@@ -19029,6 +19078,7 @@ opencloud.wostore.cn
 +.a8rm1m4msbbh.com
 +.a8ww.net
 +.a9.com
++.a908a849.xyz
 +.a962m.xyz
 +.a99hz.space
 +.a9able.com
@@ -19393,6 +19443,7 @@ opencloud.wostore.cn
 +.absolvecarriagenotify.com
 +.absolvehostkilled.com
 +.absolveparticlesanti.com
++.absolvewednesday.com
 +.absorbedscholarsvolatile.com
 +.absorbedswept.com
 +.absorbingband.com
@@ -22820,6 +22871,7 @@ opencloud.wostore.cn
 +.advpz.com
 +.advredirect.net
 +.advrush.com
++.advscdn.com
 +.advserver.cgv.vn
 +.advserver.xyz
 +.advservert.com
@@ -25178,6 +25230,7 @@ opencloud.wostore.cn
 +.api.ozui.vn
 +.api.pubfinity.com
 +.api.receptivity.io
++.api.rudderstack.com
 +.api.setting.intl.miui.com
 +.api.simpletra.com
 +.api.sprig.com
@@ -27128,6 +27181,7 @@ opencloud.wostore.cn
 +.b.povarenok.ru
 +.b.recwwcc5.info
 +.b.w3techs.com
++.b.xlineker.com
 +.b014381c95cb.com
 +.b02byun5xc3s.com
 +.b06fcca6fd.com
@@ -30384,6 +30438,7 @@ opencloud.wostore.cn
 +.bowlpromoteintimacy.com
 +.bowlsolicitor.com
 +.bowmoolog.com
++.bowoprf.icu
 +.bowtellwhincow.cfd
 +.box-en.com
 +.box.rus.porn
@@ -31640,6 +31695,7 @@ opencloud.wostore.cn
 +.c212a79d53.com
 +.c2370c7aa8.com
 +.c24c966867.com
++.c2a0076d.xyz
 +.c2aef8ab51.com
 +.c2c24.pl
 +.c2i.startappnetwork.com
@@ -32680,6 +32736,7 @@ opencloud.wostore.cn
 +.cdn28786515.ahacdn.me
 +.cdn2cdn.me
 +.cdn2reference.com
++.cdn2up.com
 +.cdn3.hentaihand.com
 +.cdn3.hentaihaven.fun
 +.cdn3reference.com
@@ -34302,7 +34359,6 @@ opencloud.wostore.cn
 +.client-telemetry.roblox.com
 +.client.botchk.net
 +.client.midosoo.com
-+.client.tahono.com
 +.clientgear.com
 +.clientinfo.phimmoizz.net
 +.clientlog.midomi.com
@@ -36756,7 +36812,6 @@ opencloud.wostore.cn
 +.csyymp4.com
 +.cszz.ru
 +.ct.5.p2l.info
-+.ct.eid.co.nz
 +.ct.itbusinessedge.com
 +.ct.thegear-box.com
 +.ct2.kimodameshi.com
@@ -37624,6 +37679,7 @@ opencloud.wostore.cn
 +.d28dc30335.com
 +.d28exbmwuav7xa.cloudfront.net
 +.d28g1fhp6rn9w3.cloudfront.net
++.d28g9g3vb08y70.cloudfront.net
 +.d28k9nkt2spnp.cloudfront.net
 +.d28quk6sxoh2w5.cloudfront.net
 +.d28s7kbgrs6h2f.cloudfront.net
@@ -37751,6 +37807,7 @@ opencloud.wostore.cn
 +.d2nin2iqst0txp.cloudfront.net
 +.d2nlytvx51ywh9.cloudfront.net
 +.d2nrdy2pg3k168.cloudfront.net
++.d2nxi61n77zqpl.cloudfront.net
 +.d2nz8k4xyoudsx.cloudfront.net
 +.d2nzjxafm0iowq.cloudfront.net
 +.d2o03z2xnyxlz5.cloudfront.net
@@ -38459,6 +38516,7 @@ opencloud.wostore.cn
 +.daptault.com
 +.daptem.com
 +.dapxl.com
++.daq0d0aotgq0f.cloudfront.net
 +.daqiangolf.com
 +.daqpmkraxkwnny.com
 +.darakht.com
@@ -43975,6 +44033,7 @@ opencloud.wostore.cn
 +.erucbaillie.top
 +.erumen.com
 +.eruthoxup.com
++.erutvncw.top
 +.erutxdk.cn
 +.ervqqtdjdxvgh.com
 +.erxdq.com
@@ -46658,6 +46717,7 @@ opencloud.wostore.cn
 +.floratelecom.com
 +.floridat.app.ur.gcion.com
 +.floristgathering.com
++.floroonwhun.com
 +.flossdiversebates.com
 +.flossyarrayal.life
 +.flotsanrantan.com
@@ -47765,6 +47825,7 @@ opencloud.wostore.cn
 +.fsobjvtkew.com
 +.fsotrmshy.com
 +.fspark-ap.com
++.fspddt.xyz
 +.fspjjp.xyz
 +.fsrtqexvtshh.com
 +.fsseeewzz.lol
@@ -51001,7 +51062,6 @@ opencloud.wostore.cn
 +.gulperstaunted.website
 +.gulsachpyrexia.uno
 +.gulsyangtao.guru
-+.gum.dlbooks.to
 +.gumbolersgthb.com
 +.gumcongest.com
 +.gumgo.cn
@@ -51410,6 +51470,7 @@ opencloud.wostore.cn
 +.hall3hook.com
 +.hallaert.online
 +.hallalifondish.space
++.hallanjerbil.com
 +.halldata.com
 +.halleyperson.pro
 +.hallothoulap.top
@@ -52766,6 +52827,7 @@ opencloud.wostore.cn
 +.hjiss.com
 +.hjiwoazeigefn.com
 +.hjjevg.com
++.hjjpsotb.com
 +.hjjshv.xyz
 +.hjkiguy.com
 +.hjkkindwould.xyz
@@ -53492,6 +53554,7 @@ opencloud.wostore.cn
 +.hrtyc.com
 +.hrtye.com
 +.hrutvncu.top
++.hruwegwayoki.com
 +.hrxjqyxvdqidpv.com
 +.hs-banner.com
 +.hs-scripts.com
@@ -56207,6 +56270,7 @@ opencloud.wostore.cn
 +.iqede.xyz
 +.iqfmvj.com
 +.iqfp1.com
++.iqgessh.icu
 +.iqgoukn.cn
 +.iqimwsctvgbvqx.xyz
 +.iqkjrwf.com
@@ -56974,6 +57038,7 @@ opencloud.wostore.cn
 +.javpremium11.fun
 +.javtrouble11.fun
 +.javtype.fun
++.javunaware11.fun
 +.jawholeminable.com
 +.jawinfallible.com
 +.jawlookingchapter.com
@@ -57875,6 +57940,7 @@ opencloud.wostore.cn
 +.jrilbcd.com
 +.jrilkvjehrjlri.com
 +.jriravntivf.com
++.jrjtibez.icu
 +.jrkbnvkrvamky.top
 +.jrkkcssob.com
 +.jrkkmpeqtlsawgf.com
@@ -59643,6 +59709,7 @@ opencloud.wostore.cn
 +.kouclo.com
 +.koucqfpnsamftw.com
 +.koudaiyundong.com
++.koufqy.xyz
 +.kougloar.com
 +.koujaups.xyz
 +.koukoku.red
@@ -72186,6 +72253,7 @@ opencloud.wostore.cn
 +.oulsools.com
 +.oulukdliketo.shop
 +.oumainseeba.xyz
++.oumnxiek.top
 +.oumpashy.net
 +.oumtirsu.com
 +.ounceanalogous.com
@@ -72621,6 +72689,7 @@ opencloud.wostore.cn
 +.ozationsuchasric.org
 +.ozayvgkqpymt.com
 +.ozbnagojbop.com
++.ozbvlfiggzpxb.com
 +.ozdpxc.com
 +.ozdq.cn
 +.ozectynptd.com
@@ -72999,6 +73068,7 @@ opencloud.wostore.cn
 +.pannumregnal.com
 +.panoramicbutter.com
 +.panoramicplane.com
++.panowiesnarled.click
 +.panoz.xyz
 +.panpant.xyz
 +.pansymerbaby.com
@@ -73707,6 +73777,7 @@ opencloud.wostore.cn
 +.peevishforceless.com
 +.peevishrace.com
 +.pefeyyuguqsg.com
++.pefufv.xyz
 +.pegablackjal.com
 +.pegah.tech
 +.pegasuson.com
@@ -79321,6 +79392,7 @@ opencloud.wostore.cn
 +.ravethung.com
 +.ravineagencyirritating.com
 +.ravingsquilted.top
++.ravm.tv
 +.ravnovesienews.ru
 +.ravqaroffn.com
 +.ravzbd.xyz
@@ -81013,6 +81085,7 @@ opencloud.wostore.cn
 +.ridwmorfitu.com
 +.rieversfidate.com
 +.rifec.co
++.riffingwiener.com
 +.riffledyanked.click
 +.rifflingo.com
 +.riffsablaze.uno
@@ -81724,6 +81797,7 @@ opencloud.wostore.cn
 +.rqnomljdot.xyz
 +.rqnvci.com
 +.rqpcgvey.com
++.rqr97sfd.xyz
 +.rqrvfp.xyz
 +.rqtrk.eu
 +.rqvahauofbdg.com
@@ -82689,6 +82763,7 @@ opencloud.wostore.cn
 +.santosmiddle.com
 +.santou20230127.live
 +.santtacklingallaso.com
++.santuao.xyz
 +.saokenganhangvn.com
 +.saon6harz.com
 +.sapdealtsalary.com
@@ -83997,6 +84072,7 @@ opencloud.wostore.cn
 +.settrogens.com
 +.setup-mydelivery-date6437-fedex.com
 +.setup-prize.top
++.setupad.net
 +.setupali.shop
 +.setupdeliveredteapot.com
 +.setupslum.com
@@ -84348,9 +84424,11 @@ opencloud.wostore.cn
 +.shbxukj.cn
 +.shbzdkj.cn
 +.shbzegs.cn
++.shbzhkj.cn
 +.shbzikj.cn
 +.shbzjgs.cn
 +.shbzjkj.cn
++.shbzkgs.cn
 +.shbzkkj.cn
 +.shbzlkj.cn
 +.shbzngs.cn
@@ -85654,6 +85732,7 @@ opencloud.wostore.cn
 +.skiingwights.com
 +.skilfuljealousygeoffrey.com
 +.skilfulrussian.com
++.skilldicier.com
 +.skilledfixedoffers.com
 +.skilledskillemergency.com
 +.skilledtables.com
@@ -87367,6 +87446,7 @@ opencloud.wostore.cn
 +.srtlyye.com
 +.srtrak.com
 +.srumifuroqkuoi.com
++.srutvncb.top
 +.sruzefwboxu.com
 +.srv.tunefindforfans.com
 +.srv00infra.com
@@ -90765,6 +90845,7 @@ opencloud.wostore.cn
 +.test-studio.ru
 +.test.besstidniki.ru
 +.test.ishvara-yoga.com
++.test.torrentfreak.com
 +.test1productions.com
 +.test92.com
 +.testadmiral.com
@@ -92212,6 +92293,7 @@ opencloud.wostore.cn
 +.toawaups.net
 +.toawhulo.com
 +.tobaccocentgames.com
++.tobaccoearnestnessmayor.com
 +.tobaitsie.com
 +.tobaltoyon.com
 +.tobepure.com
@@ -96139,6 +96221,7 @@ opencloud.wostore.cn
 +.uuiaoq.top
 +.uuishsa.com
 +.uujtmrxf.xyz
++.uumnxiet.top
 +.uunak.cn
 +.uunfybw.cn
 +.uuoizbtl.xyz
@@ -98950,6 +99033,7 @@ opencloud.wostore.cn
 +.vyye.cn
 +.vz.7vid.net
 +.vzarabotke.ru
++.vzdkngmf.icu
 +.vzeuvcdi.icu
 +.vzfizr.xyz
 +.vzhjnorkudcxbiy.com
@@ -100827,6 +100911,7 @@ opencloud.wostore.cn
 +.wnrrhcyok.xyz
 +.wnrusisedprivatedq.info
 +.wnrvrwabnxa.com
++.wnstug.xyz
 +.wnt-s0me-push.net
 +.wnt-some-psh.net
 +.wnt-some-push.com
@@ -101160,6 +101245,7 @@ opencloud.wostore.cn
 +.wpush.org
 +.wpushorg.com
 +.wpushsdk.com
++.wpwserawnuwq.com
 +.wqasioxvqnj.com
 +.wqcfg.cn
 +.wqdro6us.icu
@@ -103665,6 +103751,7 @@ opencloud.wostore.cn
 +.yjtag.jp
 +.yjuxkncvy.com
 +.yjvuthpuwrdmdt.xyz
++.yjvyyndre.com
 +.yjxhxctqq.com
 +.yjxzvqy.xyz
 +.ykad-data.youku.com
@@ -104421,6 +104508,7 @@ opencloud.wostore.cn
 +.zbwp6ghm.com
 +.zbx01.com
 +.zbxtcwi.xyz
++.zbysshlpgvl.com
 +.zbyynuew9g.ru
 +.zbzbzb.xyz
 +.zca31.com
@@ -105029,6 +105117,7 @@ opencloud.wostore.cn
 +.zoukooso.com
 +.zouloafi.net
 +.zouqiuyyds.com
++.zoustara.net
 +.zoute.cyou
 +.zoutubephaid.com
 +.zoutufoostou.com
@@ -118106,6 +118195,7 @@ opencloud.wostore.cn
 +.zl588.com
 +.zlauk.cn
 +.zlongad.com
++.zlsdk.1rtb.net
 +.zlsw.nnjxqd.com
 +.zm-bulu.cn
 +.zmgod.com
@@ -118708,7 +118798,6 @@ opencloud.wostore.cn
 +.3019.5clo0xmbf.com
 +.302y.fun
 +.3053.833enmhob.com
-+.305f5127dc.5e1b8e9d68.com
 +.306842.com
 +.30c692a17b.e218cdc27d.com
 +.3112.5clo0xmbf.com
@@ -119945,7 +120034,6 @@ opencloud.wostore.cn
 +.adsbreak.com
 +.adscfg.togothermany.cn
 +.adserv.tbussyb.com
-+.adservb.com
 +.adserve.bongocdn.com
 +.adservingvpc-1239633584.eu-west-1.elb.amazonaws.com
 +.adsfileretry.service.kugou.com
@@ -121227,7 +121315,6 @@ opencloud.wostore.cn
 +.b.harehop.com
 +.b.sexvids.cc
 +.b.sonorousporn.com
-+.b.xlineker.com
 +.b00957f07f.0f7d2e9c5b.com
 +.b0104c96dd.cf5153f67e.com
 +.b01c512075.7ea4360b7c.com
@@ -122075,7 +122162,6 @@ opencloud.wostore.cn
 +.cdn.api.fotoable.com
 +.cdn.appmachine.com
 +.cdn.apprope.com
-+.cdn.asdfix.com
 +.cdn.asdnow.xyz
 +.cdn.assets.gorillanation.com
 +.cdn.attn.tv
@@ -122161,7 +122247,6 @@ opencloud.wostore.cn
 +.cdn1.su
 +.cdn1.xvideohub.top
 +.cdn2.picyield.com
-+.cdn2up.com
 +.cdn3.cartoonporn.to
 +.cdn3.hentok.com
 +.cdn3.r34comix.com
@@ -122807,6 +122892,7 @@ opencloud.wostore.cn
 +.constellation3x.fun
 +.constremicetrk.com
 +.consultsystems.ru
++.consumerzero.com
 +.contacapre.bortox.it
 +.contact-gloss-production.accelerator.net
 +.contendsportsvisit.com
@@ -128906,7 +128992,6 @@ opencloud.wostore.cn
 +.javpercent11.fun
 +.javtend.fun
 +.javtrustee11.fun
-+.javunaware11.fun
 +.javwage.fun
 +.javwait.fun
 +.jay.brauerei-egg.at
@@ -133247,7 +133332,6 @@ opencloud.wostore.cn
 +.raven.konquadrat.de
 +.raven.omamao.ch
 +.raven.vethelpdirect.com
-+.ravm.tv
 +.rawgsjd.cn
 +.rayli.com.cn
 +.razasot.cn
@@ -139465,7 +139549,6 @@ opencloud.wostore.cn
 +.a.nelo.mx
 +.a.o2u.jp
 +.a.oney.es
-+.a.opumo.net
 +.a.parfumsclub.de
 +.a.perfumesclub.co.uk
 +.a.perfumesclub.com
@@ -141192,7 +141275,6 @@ opencloud.wostore.cn
 +.act-on.milestoneinternet.com
 +.act-on.snb.com
 +.act-on.up.edu.pe
-+.act-server-prod.7swnm9dm8q.eu-west-1.elasticbeanstalk.com
 +.act.boxerproperty.com
 +.act.colorlines.com
 +.act.convergencetraining.com
@@ -141861,7 +141943,6 @@ opencloud.wostore.cn
 +.announcement.lyreco.com
 +.annwwu.guitarcenter.com
 +.anon-stats.eff.org
-+.anonstat.pw
 +.ans.avast.com
 +.ans.avast.ru
 +.ans.milb.com
@@ -141934,7 +142015,6 @@ opencloud.wostore.cn
 +.api.digitalpiloten.org
 +.api.elliehuxtable.com
 +.api.fuck.education
-+.api.privacyguides.net
 +.api.ryanyao.design
 +.api.wipmania.com
 +.apilog-web.acfun.cn
@@ -143077,7 +143157,6 @@ opencloud.wostore.cn
 +.awaps.yandex.net
 +.awaps.yandex.ru
 +.awbkht.verktygsproffsen.se
-+.awesome.section.io
 +.awfzfs.kwantum.nl
 +.awggij.wplay.co
 +.awklir.0506mall.com
@@ -143321,14 +143400,12 @@ opencloud.wostore.cn
 +.bablace.com
 +.baccarat.abzorbagames.com
 +.backoffice.verintsystemsinc.com
-+.bacon.section.io
 +.badirectoryz.carte-gr.total.fr
 +.badwolf.open-election-compass.com
 +.baffae.alcott.eu
 +.bagbgo.unitednude.eu
 +.bahrpo.dint.co.kr
 +.bahyei.himaraya.co.jp
-+.baiduccdn1.com
 +.balkog.withmoment.co.kr
 +.banana.le.com
 +.bancopostapremia.bancoposta.it
@@ -143336,7 +143413,6 @@ opencloud.wostore.cn
 +.banstat.nadavi.net
 +.bapages.carte-gr.total.fr
 +.barium.cheezdev.com
-+.barnes.send.cm
 +.barracuda.carte-gr.total.fr
 +.basket.mondo.link
 +.basuey.toyscenter.it
@@ -143409,8 +143485,6 @@ opencloud.wostore.cn
 +.beacon.shutterfly.com
 +.beacon.sina.com.cn
 +.beacon.statful.com
-+.beacon.vertebrae-axis.com
-+.beacon.viewlift.com
 +.beacon.walmart.com
 +.beacon.watch.impress.co.jp
 +.beacon.wikia-services.com
@@ -143428,7 +143502,6 @@ opencloud.wostore.cn
 +.beeline.beeline-tire.co.jp
 +.beer2s.millerbrewing.com
 +.behave.sn.at
-+.behavior.tongdun.net
 +.belgium.wolterskluwer.com
 +.belong.curtin.edu.au
 +.beneficios.davivienda.hn
@@ -144008,7 +144081,6 @@ opencloud.wostore.cn
 +.cadsuta.net
 +.cafirebreather.com
 +.cagkpu.suitdirect.co.uk
-+.cahf4eed.mooo.com
 +.cakmzz.schwab.de
 +.caknmq.rotita.com
 +.calgary-content.cresa.com
@@ -144213,7 +144285,6 @@ opencloud.wostore.cn
 +.chgwwj.klimate.nl
 +.chiefinvestmentofficer.strategic-i.com
 +.chihiro.nostalgie.fr
-+.chmproxy.bid
 +.choose.adelaide.edu.au
 +.choose.nu.edu
 +.choymp.pooldawg.com
@@ -144455,7 +144526,6 @@ opencloud.wostore.cn
 +.cmp.lepoint.fr
 +.cmp.netzwelt.de
 +.cmp.nouvelobs.com
-+.cmp.tech426.com
 +.cmp.tek.no
 +.cmp.telerama.fr
 +.cmp2.channelpartner.de
@@ -144513,7 +144583,6 @@ opencloud.wostore.cn
 +.cnt.iceporn.com
 +.cnt.iol.it
 +.cnt.logoslovo.ru
-+.cnt.mastorage.net
 +.cnt.nov.ru
 +.cnt.rambler.ru
 +.cnt.viptube.com
@@ -144573,7 +144642,6 @@ opencloud.wostore.cn
 +.collector-api.99designs.com
 +.collector-api.frspecifics.com
 +.collector-px0py5pczn.octopart.com
-+.collector-soompi.viki.io
 +.collector-videoplayer.5centscdn.net
 +.collector.api.video
 +.collector.automote.co.nz
@@ -144601,7 +144669,6 @@ opencloud.wostore.cn
 +.collector.xhamster3.com
 +.collector2c.zhihuishu.com
 +.collector5.zipy.ai
-+.collectorsvc.apac.vesta.io
 +.college.business.oregonstate.edu
 +.colors.chamoji.com
 +.columbustech.tcsg.edu
@@ -145113,7 +145180,6 @@ opencloud.wostore.cn
 +.cqubdd.metro.co.uk
 +.cqubdd.thisismoney.co.uk
 +.cqz6fn6aox.aporia.com
-+.crayfish.thingelstad.com
 +.create.encore-mx.com
 +.create.encoreglobal.com
 +.creator.zmags.com
@@ -145413,7 +145479,6 @@ opencloud.wostore.cn
 +.d.xapcard.com
 +.d10lpsik1i8c69.cloudfront.net
 +.d11bdev7tcn7wh.cloudfront.net
-+.d15kdaxu5c0hfw.cloudfront.net
 +.d169bbxks24g2u.cloudfront.net
 +.d16fk4ms6rqz1v.cloudfront.net
 +.d1733r3id7jrw5.cloudfront.net
@@ -145450,7 +145515,6 @@ opencloud.wostore.cn
 +.d24cze5sab2jwg.cloudfront.net
 +.d24rtvkqjwgutp.cloudfront.net
 +.d276.ourmidland.com
-+.d28g9g3vb08y70.cloudfront.net
 +.d2cpw6kwpff7n5.cloudfront.net
 +.d2ezz24t9nm0vu.cloudfront.net
 +.d2gbtcuv3w9qyv.cloudfront.net
@@ -145459,7 +145523,6 @@ opencloud.wostore.cn
 +.d2j74sjmqqyf26.cloudfront.net
 +.d2kdl5wcwrtj90.cloudfront.net
 +.d2lxqodqbpy7c2.cloudfront.net
-+.d2nxi61n77zqpl.cloudfront.net
 +.d2o67tzzxkqap2.cloudfront.net
 +.d2oh4tlt9mrke9.cloudfront.net
 +.d2pozfvrp52dk4.cloudfront.net
@@ -145473,15 +145536,12 @@ opencloud.wostore.cn
 +.d2wu036mkcz52n.cloudfront.net
 +.d2wy8f7a9ursnm.cloudfront.net
 +.d2z0bn1jv8xwtk.cloudfront.net
-+.d2zue0pgsssbc6.cloudfront.net
 +.d31y97ze264gaa.cloudfront.net
 +.d34ko97cxuv4p7.cloudfront.net
 +.d34r8q7sht0t9k.cloudfront.net
 +.d35u1vg1q28b3w.cloudfront.net
-+.d36u3psykfwy91.cloudfront.net
 +.d39ion77s0ucuz.cloudfront.net
 +.d39yds8oe4n4jq.cloudfront.net
-+.d3bj8nkfly20uo.cloudfront.net
 +.d3bo67muzbfgtl.cloudfront.net
 +.d3cgm8py10hi0z.cloudfront.net
 +.d3cxv97fi8q177.cloudfront.net
@@ -145495,9 +145555,7 @@ opencloud.wostore.cn
 +.d3mskfhorhi2fb.cloudfront.net
 +.d3n6i6eorggdxk.cloudfront.net
 +.d3or5d0jdz94or.cloudfront.net
-+.d3pi0tys5sdysl.cloudfront.net
 +.d3plfjw9uod7ab.cloudfront.net
-+.d3qztsm17pgxue.cloudfront.net
 +.d3r7h55ola878c.cloudfront.net
 +.d3s7ggfq1s6jlj.cloudfront.net
 +.d3sbxpiag177w8.cloudfront.net
@@ -145535,7 +145593,6 @@ opencloud.wostore.cn
 +.dajdnm.splits59.com
 +.dallas-content.cresa.com
 +.danv01ao0kdr2.cloudfront.net
-+.daq0d0aotgq0f.cloudfront.net
 +.dart.onjoyri.de
 +.dashboardbntest.branchcustom.xyz
 +.dasych.drmartypets.com
@@ -146033,7 +146090,6 @@ opencloud.wostore.cn
 +.datacollector-dra.dt.hicloud.com
 +.datadog-service.mvfglobal.com
 +.datadome.maisonsdumonde.com
-+.datadome.patreon.com
 +.datalayer.orange.fr
 +.datanoticias.prisasd.com
 +.dataofpages.com
@@ -146155,7 +146211,6 @@ opencloud.wostore.cn
 +.de-de.siemensplmevents.com
 +.de-go.experian.com
 +.de-metalshop.m-shop.me
-+.de-nis-ner-mi-5.info
 +.de.bca-news.com
 +.de.contact.alphabet.com
 +.de.mywd.com
@@ -146238,7 +146293,6 @@ opencloud.wostore.cn
 +.design.nanawall.com
 +.desuscripcion.phg.palladiumhotelgroup.com
 +.details.pella.com
-+.detect.ergebnis-dienst.de
 +.detnmz.cuteness.com
 +.detnmz.ehow.com
 +.detnmz.hunker.com
@@ -146499,7 +146553,6 @@ opencloud.wostore.cn
 +.discover.tenplay.com.au
 +.discover2.secureforms.mcafee.com
 +.dispatchunique.com
-+.dispatchvegasplus.com
 +.distiller.kano.link
 +.distillery.wistia.com
 +.distribution.provenpharma.com
@@ -146649,7 +146702,6 @@ opencloud.wostore.cn
 +.doppler-beacon.cbsivideo.com
 +.doppler-client-events.cbsivideo.com
 +.doppler-reporting.cbsivideo.com
-+.dot.nonolive.com
 +.doublestat.info
 +.downeconomywp.advancedtech.com
 +.download-staging.planify.io
@@ -146710,7 +146762,6 @@ opencloud.wostore.cn
 +.drive.waitrapp.com
 +.driver.dctaxi.com
 +.driver.jugnoo.in
-+.drlimmode9ddd.cloudfront.net
 +.drugtest.questdiagnostics.com
 +.druzja.canmart.co.kr
 +.drvive.lamoda.ru
@@ -147781,7 +147832,6 @@ opencloud.wostore.cn
 +.epnfoq.cyberpowersystem.co.uk
 +.epoisejobs.epoise.com
 +.epoisepreptest.epoise.com
-+.epro.sogou.com
 +.eproof.drudgereport.com
 +.epsilondelta.co
 +.epwa.europarl.europa.eu
@@ -147914,7 +147964,6 @@ opencloud.wostore.cn
 +.ev.tpocdm.com
 +.evelynn.landing.ni.com
 +.evenement.ricoh.fr
-+.event-api.contactatonce.com
 +.event-api.reverb.com
 +.event-collector.moviesanywhere.com
 +.event-collector.prd.data.s.joyn.de
@@ -147959,7 +148008,6 @@ opencloud.wostore.cn
 +.eventos.mirecweek.com
 +.eventos.ubmmexico.com
 +.eventos.usj.es
-+.events-ingestion.services.gorgias.com
 +.events-logs.doctolib.com
 +.events-prod.autolist.com
 +.events-tracker.deliveroo.net
@@ -148959,6 +149007,7 @@ opencloud.wostore.cn
 +.gl5g98t0vfjb.panprices.com
 +.glamipixel.com
 +.glass.autovistagroup.com
++.glassbox-hlx-igw.bankofamerica.com
 +.glassguide-au.autovistagroup.com
 +.glassmoni.researchgate.net
 +.glbgox.djoser.de
@@ -149548,7 +149597,6 @@ opencloud.wostore.cn
 +.gotest.onefc.com
 +.gotest.real.co
 +.gotest.taillight.com
-+.gotie.tunein.com
 +.goto.firsttechfed.com
 +.goto.heartlandpaymentsystems.com
 +.goto.nearlist.com
@@ -149934,7 +149982,6 @@ opencloud.wostore.cn
 +.hsaxca.americatv.com.pe
 +.hsleadflows.net
 +.hslkll.psychic.de
-+.hspbotdetection.azurewebsites.net
 +.hssyje.theathletesfoot.com.au
 +.hst2-invite.ander.ai
 +.hstats.askmiso.com
@@ -150059,7 +150106,6 @@ opencloud.wostore.cn
 +.iconmediapixel.com
 +.iconnode.com
 +.ictrjw.barcastores.com
-+.icu.getstorybox.com
 +.id-ward.com
 +.id5-sync.com
 +.idbkfy.kango-roo.com
@@ -153464,7 +153510,6 @@ opencloud.wostore.cn
 +.lntvby.banggood.com
 +.lnxfgm.party-calendar.net
 +.loader-cdn.azureedge.net
-+.loader.zeroform.com
 +.loans.rategenius.com
 +.loansales.cbre.com
 +.local-shares.ri.la
@@ -153519,7 +153564,6 @@ opencloud.wostore.cn
 +.log.snapdeal.com
 +.log.tossinvest.com
 +.log.ttbc-hcm.gov.vn
-+.log.v.ssp.yahoo.com
 +.log.webnovel.com
 +.log.worldsoft-cms.info
 +.log.zdnet.co.kr
@@ -153559,7 +153603,6 @@ opencloud.wostore.cn
 +.logs.netflix.com
 +.logs.openbank.com
 +.logs.spilgames.com
-+.logs.thebloggernetwork.com
 +.logs.theccaa.com
 +.logsbin.dantri.com.vn
 +.logsdk.kwai-pro.com
@@ -153703,7 +153746,6 @@ opencloud.wostore.cn
 +.lpfsex.fabiboutique.com
 +.lpipua.kcar.com
 +.lps-info.arval.com
-+.lps.qantas.com
 +.lptest.email-mobiledx.cjm.adobe.com
 +.lpuqtu.propertyfinder.bh
 +.lpygsq.dorita.se
@@ -156211,7 +156253,6 @@ opencloud.wostore.cn
 +.metrics.dollargeneral.com
 +.metrics.donaldson.com
 +.metrics.doppiocdn.com
-+.metrics.doppiocdn.org
 +.metrics.doppiostreams.com
 +.metrics.dreamvacationweek.com
 +.metrics.drklein.de
@@ -157637,7 +157678,6 @@ opencloud.wostore.cn
 +.n.lexusfinancial.com
 +.n.netquote.com
 +.n.toyotafinancial.com
-+.n26-trusted.n26.com
 +.n367tqpdxce0.quine.sh
 +.n4kb43cl2bsw.creatordrop.com
 +.na-pages.husqvarna.com
@@ -157869,8 +157909,6 @@ opencloud.wostore.cn
 +.noa.yahoo.com
 +.noa0.compteczam.fr
 +.nocaadobefpc.optus.com.au
-+.noeyeon.click
-+.noeyeon.com
 +.noflake-aggregator-http.narvar.com
 +.nogxjk.dackonline.se
 +.nohaxn.damattween.com
@@ -158582,7 +158620,6 @@ opencloud.wostore.cn
 +.p.ianmjones.com
 +.p.iforge.app
 +.p.logbox.io
-+.p.lucida.to
 +.p.marqueplace.com
 +.p.meilentrio.de
 +.p.minds.com
@@ -158607,7 +158644,6 @@ opencloud.wostore.cn
 +.p2.danskebank.fi
 +.p2.danskebank.no
 +.p2.danskebank.se
-+.p2r14.com
 +.p2ro4u.trybawaryjny.pl
 +.p3tq.pandasuite.io
 +.p5mcwdbu.ginzo-buy.jp
@@ -158927,7 +158963,6 @@ opencloud.wostore.cn
 +.pixel.fohr.co
 +.pixel.homebook.pl
 +.pixel.honestjohn.co.uk
-+.pixel.inforsea.com
 +.pixel.ionos.com
 +.pixel.ionos.de
 +.pixel.ionos.fr
@@ -158942,7 +158977,6 @@ opencloud.wostore.cn
 +.pixel.s3xified.com
 +.pixel.safe-installation.com
 +.pixel.smartmedia.tj
-+.pixel.solvemedia.com
 +.pixel.sprinklr.com
 +.pixel.tuko.co.ke
 +.pixel.wp.com
@@ -159114,7 +159148,6 @@ opencloud.wostore.cn
 +.plausible.yalepaprika.com
 +.plausible.zest.dev
 +.plausible.zorin.com
-+.plausiblecdn.co
 +.play.ab05.bet
 +.play.adtonos.com
 +.play.b-t11.com
@@ -159395,7 +159428,6 @@ opencloud.wostore.cn
 +.pt.legalstart.fr
 +.ptlpel.tui.at
 +.ptmcos.beginning.kr
-+.ptracker.nurturehq.com
 +.ptrenx.vidaxl.com.au
 +.ptsc.shoplocal.com
 +.pu.pretunique.fr
@@ -159445,7 +159477,6 @@ opencloud.wostore.cn
 +.px.marchex.io
 +.px.mountain.com
 +.px.pandora.com
-+.px.spiceworks.com
 +.px.srvcs.tumblr.com
 +.px.staticfiles.at
 +.px.wp.pl
@@ -159707,7 +159738,6 @@ opencloud.wostore.cn
 +.rake.11st.co.kr
 +.ramp.purch.com
 +.rampjs-cdn.system1.com
-+.rand.com.ru
 +.randstad.epoise.com
 +.randstadtest.epoise.com
 +.rankhit.china.com
@@ -160195,7 +160225,6 @@ opencloud.wostore.cn
 +.rum.condenastdigital.com
 +.rum.corewebvitals.io
 +.rum.ingress.layer0.co
-+.rum.kobo.com
 +.rum.layer0.co
 +.rum.marquardmedia.hu
 +.rum.perfops.net
@@ -160855,7 +160884,6 @@ opencloud.wostore.cn
 +.scrippscookingchannel.cookingchanneltv.com
 +.scrippsfoodnetnew.foodnetwork.com
 +.scrippshgtvnew.hgtv.com
-+.script-sh.d2cdm.jp
 +.script.ac
 +.scripts.psyma.com
 +.scs.allsecur.nl
@@ -161175,7 +161203,6 @@ opencloud.wostore.cn
 +.selphiu.com
 +.selvi.viessmann.com.tr
 +.sem.tkc-biyou.jp
-+.sem.triboomedia.it
 +.send.merit.me
 +.send.preply.com
 +.sendgrid.employeelinkapp.com
@@ -164655,7 +164682,6 @@ opencloud.wostore.cn
 +.socs.hagerty.com
 +.soejzg.efe.com.pe
 +.soelui.butosklep.pl
-+.sofa.bankofamerica.com
 +.sofire.bdstatic.com
 +.sofire.terabox.app
 +.sohiuc.sheego.de
@@ -165778,7 +165804,6 @@ opencloud.wostore.cn
 +.stat.bankiros.ru
 +.stat.bdc.ca
 +.stat.bill.harding.blog
-+.stat.boredomtherapy.com
 +.stat.buyersedge.com.au
 +.stat.caijing.com.cn
 +.stat.canal-plus.com
@@ -165921,7 +165946,6 @@ opencloud.wostore.cn
 +.stats.adobe.com
 +.stats.adultswim.com
 +.stats.aerotime.aero
-+.stats.afrocave.com
 +.stats.agl.com.au
 +.stats.airfarewatchdog.co.uk
 +.stats.airfarewatchdog.com
@@ -166456,7 +166480,6 @@ opencloud.wostore.cn
 +.stats.profilehunt.net
 +.stats.profitablesignpricing.com
 +.stats.projectcongress.com
-+.stats.pstream.net
 +.stats.psychotherapieravensburg.de
 +.stats.pubfind.io
 +.stats.pusher.com
@@ -167254,7 +167277,6 @@ opencloud.wostore.cn
 +.t.birchlane.com
 +.t.blablacar.com
 +.t.bluehens.com
-+.t.brand-server.com
 +.t.bucky.uwbadgers.com
 +.t.budweisergardens.com
 +.t.bukalapak.com
@@ -167364,7 +167386,6 @@ opencloud.wostore.cn
 +.t.irtyc.com
 +.t.itsehoitoapteekki.fi
 +.t.iuhoosiers.com
-+.t.iwara.tv
 +.t.jmusports.com
 +.t.jobsyn.org
 +.t.jossandmain.com
@@ -167438,7 +167459,6 @@ opencloud.wostore.cn
 +.t.perjeta.com
 +.t.pittsburghpanthers.com
 +.t.playhousesquare.org
-+.t.playwayfinder.com
 +.t.pmu.fr
 +.t.poconoraceway.com
 +.t.pointandplace.com
@@ -167448,7 +167468,6 @@ opencloud.wostore.cn
 +.t.poyry.com
 +.t.pplcenter.com
 +.t.prod1.discover.binge.com.au
-+.t.pswec.com
 +.t.purduesports.com
 +.t.ragincajuns.com
 +.t.rail-and-drive.de
@@ -167534,7 +167553,6 @@ opencloud.wostore.cn
 +.t.xolairhcp.com
 +.t.xtreamarena.com
 +.t.y8.com
-+.t.zulily.com
 +.t0y.toyota.ca
 +.t1.benefits.tops.co.th
 +.t1.discover.flashnews.com.au
@@ -168069,7 +168087,6 @@ opencloud.wostore.cn
 +.test.takedwn.ws
 +.test.thei.co
 +.test.thomsonreuters.com
-+.test.torrentfreak.com
 +.test.vast
 +.test.zeus-wifi.jp
 +.test2.majelan.com
@@ -169445,7 +169462,6 @@ opencloud.wostore.cn
 +.track-v4.ipadpresence.com
 +.track-visit.monday.com
 +.track.91app.io
-+.track.99acres.com
 +.track.abrdn.com
 +.track.abrdnacp.com
 +.track.abrdnaef.com
@@ -169482,7 +169498,6 @@ opencloud.wostore.cn
 +.track.cordial.io
 +.track.cornerstonebuildingbrands.com
 +.track.craudia.com
-+.track.dark.bz
 +.track.deloitte.com
 +.track.dictionary.com
 +.track.digitalriver.com
@@ -171326,7 +171341,6 @@ opencloud.wostore.cn
 +.wqfflc.plantopedia.de
 +.wqudcv.finnishdesignshop.com
 +.wqytxm.kurly.com
-+.wren.condenastdigital.com
 +.wrhv.education.gouv.fr
 +.wrkbha.lyst.de
 +.wrlnvt.pepita.hu
@@ -171674,6 +171688,7 @@ opencloud.wostore.cn
 +.xmyvhu.soxo.pl
 +.xnukcp.cpcompany.com
 +.xp.allianz.de
++.xp.apple.com
 +.xp2023-pix.s3.amazonaws.com
 +.xpcpmr.gsm55.com
 +.xps.huk.de
@@ -172329,6 +172344,7 @@ opencloud.wostore.cn
 +.a.intercall.com
 +.a.kryptonitewp.com
 +.a.mhthemes.com
++.a.opumo.net
 +.a.remy.world
 +.a2.avomeen.com
 +.a8.emma-sleep-japan.com
@@ -172368,6 +172384,7 @@ opencloud.wostore.cn
 +.a8net.mellow-cbd.jp
 +.a8track.ulp.co.jp
 +.aam.gumtree.com.au
++.act-server-prod.7swnm9dm8q.eu-west-1.elasticbeanstalk.com
 +.acton.convergentdental.com
 +.ad-track.paravi.jp
 +.ad.udition.jp
@@ -172382,19 +172399,28 @@ opencloud.wostore.cn
 +.analytic.ae.com
 +.analytic.pnc.com
 +.analytic.surfline.com
++.anonstat.pw
 +.anva.org.cn
 +.aoxbbx.creditoseconomicos.com
 +.api.eichendorffschule.online
 +.api.net.sparhandy.de
++.api.privacyguides.net
 +.appassets.androidplatform.net.iberostar.com
 +.aqdawf.ccm.net
 +.aqdawf.magazinedelledonne.it
 +.assp.semilab.hu
 +.attorney.findlaw.com
 +.avma.avmaplit.com
++.awesome.section.io
 +.b.tienda.com
++.bacon.section.io
++.baiduccdn1.com
++.barnes.send.cm
 +.bbybqq.levi.co.id
 +.bc.law.com
++.beacon.vertebrae-axis.com
++.beacon.viewlift.com
++.behavior.tongdun.net
 +.bigbtmbvdzda.freelancer.taxmachine.be
 +.boirza.idealista.pt
 +.bsswkv.kirmizibeyazz.com
@@ -172403,6 +172429,7 @@ opencloud.wostore.cn
 +.bvz5.destinia.com.tr
 +.bxumze.dispatch.com
 +.c.rhapsody.com
++.cahf4eed.mooo.com
 +.cat.fonecta.fi
 +.catharsisproductionsmarketing.catharsisproductions.com
 +.cbekol.decofire.pl
@@ -172411,14 +172438,19 @@ opencloud.wostore.cn
 +.cfxsss.deerberg.de
 +.cgvgga.mackenzie-childs.com
 +.china-bestmind.com
++.chmproxy.bid
 +.chromatography.mac-mod.com
 +.ciyacton.ciy.com
 +.click.datanyze.com
 +.clientservice.alphasimplex.com
++.cmp.tech426.com
 +.cmpassport.com
++.cnt.mastorage.net
 +.cnvd.org.cn
 +.collect.allianzcinema.ch
 +.collect.allianzdriveincinema.ch
++.collector-soompi.viki.io
++.collectorsvc.apac.vesta.io
 +.communications.optimagfx.com
 +.connect.adkhifi.com
 +.connect.astrobotanicals.com
@@ -172433,6 +172465,7 @@ opencloud.wostore.cn
 +.cqpmvc.femmeactuelle.fr
 +.cqpmvc.neonmag.fr
 +.cr-nielsen.com
++.crayfish.thingelstad.com
 +.cryptotax.efscle.com
 +.cs0010sbeda.theory-diet.com
 +.cs0010sbeda.theory-kumatarumi.com
@@ -172450,19 +172483,24 @@ opencloud.wostore.cn
 +.data.skistar1.test.cjmadobe.com
 +.data.srf.ch
 +.data.stepstone.fr
++.datadome.patreon.com
 +.dc.areacliente.repsolluzygas.com
 +.dcspil.hifiklubben.nl
++.de-nis-ner-mi-5.info
 +.dealercontent.homehardware.ca
 +.dealersuccess.drivedominion.com
++.detect.ergebnis-dienst.de
 +.detnmz.bizfluent.com
 +.digital.rowland.agency
 +.digitalmarketing.nglantz.com
 +.din1j0su0u99.artwallstreet.io
 +.direct.t-mobile.com
 +.discover.interlochen.org
++.dispatchvegasplus.com
 +.dlziqh9bo7.boring.fm
 +.dnpjzf.fashionette.co.uk
 +.doppler-config.cbsivideo.com
++.dot.nonolive.com
 +.drdtnj.footlocker.ae
 +.dvghns.idealista.it
 +.ea.access-moto.com
@@ -172479,9 +172517,12 @@ opencloud.wostore.cn
 +.email.lynnimaging.com
 +.email.pcmaconvene.org
 +.enohcw.flyin.com
++.epro.sogou.com
 +.erutinmo.snagajob.com
 +.etcwmg.instant-gaming.com
 +.etude.epidemiologie-pop-ge.ch
++.event-api.contactatonce.com
++.events-ingestion.services.gorgias.com
 +.evhme0j57hqj.www.siteai.chat
 +.explore.code3esg.com
 +.eyes.jstew.art
@@ -172537,10 +172578,12 @@ opencloud.wostore.cn
 +.hoseyy.prettylittlething.com
 +.hotjar.com
 +.hotjar.io
++.hspbotdetection.azurewebsites.net
 +.hub.verticalmarketsoftware.com
 +.i-bestmind.com
 +.i.justblinds.com
 +.ics-cert.org.cn
++.icu.getstorybox.com
 +.id6.me
 +.iethpk.notino.ro
 +.ifcert.cn
@@ -172623,6 +172666,8 @@ opencloud.wostore.cn
 +.lkcxde.miliboo.de
 +.lkjbrd.signals.com
 +.lnvmxk.familyset.jp
++.loader.zeroform.com
++.logs.thebloggernetwork.com
 +.loongteam.com
 +.lp.govirtualoffice.com
 +.lp.hol3.demoamericas275.adobe.com
@@ -172630,6 +172675,7 @@ opencloud.wostore.cn
 +.lp.vaultlogix.com
 +.lpa.idexpertscorp.com
 +.lpbhnv.telemundo51.com
++.lps.qantas.com
 +.lpzpyf.personalizedplanet.com
 +.lvskfa.medisafe.fr
 +.macmorin.net.anwalt.de
@@ -172855,6 +172901,7 @@ opencloud.wostore.cn
 +.metrics.delwebb.com
 +.metrics.dickssportinggoods.com
 +.metrics.diningdough.com
++.metrics.doppiocdn.org
 +.metrics.egencia.com.tr
 +.metrics.electronicdesign.com
 +.metrics.eloan.com
@@ -173011,6 +173058,7 @@ opencloud.wostore.cn
 +.myrfdq.emmi.jp
 +.n.news.com
 +.n.thestar.com
++.n26-trusted.n26.com
 +.net.carrefour.es
 +.net.eurowings.com
 +.net.jumia.cm
@@ -173023,6 +173071,8 @@ opencloud.wostore.cn
 +.news.pflow.com
 +.nexac.com
 +.nnvtvx.chegg.com
++.noeyeon.click
++.noeyeon.com
 +.nossl.aafp.org
 +.nr-data.net
 +.nus.nick.com
@@ -173064,6 +173114,7 @@ opencloud.wostore.cn
 +.ovmrti.sassyclassy.de
 +.ovyrak.viajeselcorteingles.es
 +.oxizwk.livique.ch
++.p2r14.com
 +.packagingsolutions.filamatic.com
 +.page.downloads.cooperlighting.com
 +.page.oceaninsight.com
@@ -173082,11 +173133,14 @@ opencloud.wostore.cn
 +.phjzsx.elevit.jp
 +.phqwdj.blacknfriday.com
 +.ping.hedlund.xyz
++.pixel.inforsea.com
++.pixel.solvemedia.com
 +.plausible.bearer.sh
 +.plausible.billfox.co
 +.plausible.doberman.co
 +.plausible.reactpreview.com
 +.plausible.vaughanesports.org
++.plausiblecdn.co
 +.plhwid.evdeeczane.com
 +.pmavlz.bitebeauty.com
 +.pmmpjb.matratzen-concord.de
@@ -173096,8 +173150,10 @@ opencloud.wostore.cn
 +.pro.6arry.com
 +.product.fidormarket.com
 +.ptouat.wahoofitness.com
++.ptracker.nurturehq.com
 +.pudalz.gismeteo.by
 +.puritysts.purityproducts.com
++.px.spiceworks.com
 +.pymbay.kinguin.net
 +.q3xly8i4oz.app.taxmachine.be
 +.qarlfj.pamono.fr
@@ -173108,6 +173164,7 @@ opencloud.wostore.cn
 +.qhzefk.drmartens.com
 +.quality.bedrockquartz.com
 +.quantcount.com
++.rand.com.ru
 +.reozft.ambientedirect.com
 +.repdata.king5.com
 +.report.mitsubishicars.com
@@ -173116,6 +173173,7 @@ opencloud.wostore.cn
 +.rhxkzd.jane.com
 +.rloddo.olx.bg
 +.rtbasia.com
++.rum.kobo.com
 +.rvdnyq.topito.com
 +.rw.net.rewe.de
 +.rybfjx.sportscheck.com
@@ -173135,6 +173193,7 @@ opencloud.wostore.cn
 +.sc.thedailyshow.com
 +.scookies-adobe.kbclease.lu
 +.scorecardresearch.com
++.script-sh.d2cdm.jp
 +.secured.bitcoinira.com
 +.securestats.cafepress.com
 +.securetags.esriturkey.com.tr
@@ -173142,6 +173201,7 @@ opencloud.wostore.cn
 +.segment.com
 +.segment.io
 +.segmentify.com
++.sem.triboomedia.it
 +.seniorliving.fvbradenton.com
 +.seniorliving.henryfordvillage.com
 +.seniorliving.jslg.org
@@ -173388,6 +173448,7 @@ opencloud.wostore.cn
 +.socialannex.com
 +.socialbakers.com
 +.sociaplus.com
++.sofa.bankofamerica.com
 +.solutions.advantageauburn.com
 +.solutions.bluebox.net
 +.solutions.regence.com
@@ -173480,6 +173541,7 @@ opencloud.wostore.cn
 +.stat-ssl.yoyaq.com
 +.stat.4travel.jp
 +.stat.bankofthewest.com
++.stat.boredomtherapy.com
 +.stat.cruisingpower.com
 +.stat.eiga.com
 +.stat.his-j.com
@@ -173492,6 +173554,7 @@ opencloud.wostore.cn
 +.stats-whatever.gigride.live
 +.stats.45rpm.ch
 +.stats.aavacations.com
++.stats.afrocave.com
 +.stats.airtrafik.com
 +.stats.artv.ca
 +.stats.asadventure.fr
@@ -173544,6 +173607,7 @@ opencloud.wostore.cn
 +.stats.pise-notes.club
 +.stats.pizzapizza.io
 +.stats.posten.se
++.stats.pstream.net
 +.stats.reactshowcase.com
 +.stats.readers.cafe
 +.stats.retofunctional.com
@@ -173616,7 +173680,12 @@ opencloud.wostore.cn
 +.t-s.cathflo.com
 +.t.activase.com
 +.t.bahnbuchung.de
++.t.brand-server.com
++.t.iwara.tv
 +.t.mashable.com
++.t.playwayfinder.com
++.t.pswec.com
++.t.zulily.com
 +.tacsc.net.anwalt.de
 +.tagcommander.com
 +.tailtarget.com
@@ -173666,7 +173735,9 @@ opencloud.wostore.cn
 +.tr.remboursement.orange.fr
 +.tr.rr.com
 +.track-acton.healthengine.com.au
++.track.99acres.com
 +.track.collegeboard.com
++.track.dark.bz
 +.track.futureshop.ca
 +.track.shop.psg.fr
 +.travel.ecsc-ovc.com
@@ -173729,6 +173800,7 @@ opencloud.wostore.cn
 +.wootric.com
 +.workwonders.hallstar.com
 +.wqkcsg.armandthiery.fr
++.wren.condenastdigital.com
 +.ws-pro-origin-pull.kwai.net.iberostar.com
 +.wsgddl.deporvillage.it
 +.wukbuj.jazeerapaints.com
