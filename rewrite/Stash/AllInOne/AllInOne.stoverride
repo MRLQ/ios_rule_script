@@ -1,15 +1,15 @@
 name: AllInOne
-desc: 最后更新时间 2024-09-12 02:15:42
+desc: 最后更新时间 2024-09-22 02:14:59
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
 # domain: 5
 # http-request-script: 1
 # http-response-script: 25
 # redirect: 8
-# reject: 689
-# mitm: 723
+# reject: 690
+# mitm: 724
 # force-http-engine-hosts: 6
-# total: 1457
+# total: 1459
 
 
 
@@ -531,6 +531,7 @@ http:
     - ^https?:\/\/mobile\.da\.mgtv\.com\/json\/app\/bdboot - reject
     - ^https?:\/\/mobilead\.kuwo\.cn\/EcomResourceServer\/adBubble\/.+ - reject
     - ^https?:\/\/mobileapi-v6\.elong\.com\/adgateway\/ - reject
+    - ^https?:\/\/mobileapi\.xiamenair\.com\/mobile-starter\/.+\/getStartAD - reject
     - ^https?:\/\/mp\.weixin\.qq\.com\/mp\/cps_product_info - reject
     - ^https?:\/\/mpcs\.suning\.com\/mpcs\/dm\/getDmInfo - reject
     - ^https?:\/\/mpos-pic\.helipay\.com\/upload\/images\/advertisment - reject
@@ -922,7 +923,6 @@ http:
     - "*.chelaile.net.cn"
     - "*.chelaileapp.cn"
     - "*.cupid.iqiyi.com"
-    - "*.dcloud.net.cn"
     - "*.ddly666.top"
     - "*.didapinche.com"
     - "*.ecoliving168.com"
@@ -1144,6 +1144,7 @@ http:
     - "appconf.mail.163.com"
     - "apprn.pizzahut.com.cn"
     - "apps.api.ke.com"
+    - "apps.teamair.cn"
     - "apps.workair.cn"
     - "appuser-static.huolala.cn"
     - "appwk.baidu.com"
@@ -1379,6 +1380,7 @@ http:
     - "mobile.da.mgtv.com"
     - "mobilead.kuwo.cn"
     - "mobileapi-v6.elong.com"
+    - "mobileapi.xiamenair.com"
     - "mobilepaas.abchina.com.cn"
     - "mp.weixin.qq.com"
     - "mpcs.suning.com"
