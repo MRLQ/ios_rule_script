@@ -1,11 +1,11 @@
 name: 复写去广告(严格版)
-desc: 最后更新时间 2024-11-13 02:16:20
+desc: 最后更新时间 2024-12-12 02:17:56
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 1175
-# mitm: 865
+# reject: 1186
+# mitm: 875
 # force-http-engine-hosts: 6
-# total: 2046
+# total: 2067
 
 
 
@@ -23,6 +23,7 @@ http:
     - ^http?:\/\/sfo\.mddcloud\.com\.cn\/api\/v2\/sfo\/popup_displays? - reject
     - ^http?:\/\/tianqi\.2345\.com\/api\/content\/getContentFeeds\.php - reject
     - ^http[s]?:\/\/magev6\.if\.qidian\.com\/argus\/api\/v1\/bookshelf\/refresh - reject
+    - ^https://info\.mina\.xiaoaisound\.com/advertise/ - reject
     - ^https:\/\/(h3\.)?open\.taou\.com\/maimai\/adshow\? - reject
     - ^https:\/\/(h3\.)?open\.taou\.com\/maimai\/go_gossip_darwin\/external\/v2\/query_flow_cards\? - reject
     - ^https:\/\/(h3\.)?open\.taou\.com\/maimai\/pay\/v5\/check_gift\? - reject
@@ -62,6 +63,7 @@ http:
     - ^https:\/\/dict\.youdao\.com\/homepage\/tile - reject
     - ^https:\/\/dict\.youdao\.com\/vip\/activity\/couponinfo - reject
     - ^https:\/\/dinamicx\.alibabausercontent\.com\/pub\/fish_home_top_kingkong_new\/ - reject
+    - ^https:\/\/ecloud\.tppension\.cntaiping\.com\/fxtpplatform\/common\/anonymous\/common\/page\/queryStartPageNew\?language=zh-CN - reject
     - ^https:\/\/ether-pack\.pangolin-sdk-toutiao\.com\/union\/endcard\/ - reject
     - ^https:\/\/file\.dian\.so\/c\/leto - reject
     - ^https:\/\/gw\.chuangkit\.com\/team\/app\/common\/ad\/ - reject
@@ -87,6 +89,8 @@ http:
     - ^https:\/\/mobileapi\.xiamenair\.com\/mobile-starter - reject
     - ^https:\/\/mobilehotelapi\.elong\.com\/appHotel\/adx\/advert\/getAdvert - reject
     - ^https:\/\/mxsa\.mxbc\.net\/api\/v1\/adinfo\/limitedAds$ - reject
+    - ^https:\/\/ntt-app\.benewtech\.cn\/v6\/user\/\d+\/messages\/event - reject
+    - ^https:\/\/order-app-api\.lbdj\.com\/lbdj\/apporder\/ad\/ - reject
     - ^https:\/\/p0\.pipi\.cn\/adAdmin\/\w+\.(jpg|png)\?imageMogr2\/thumbnail\/(860x0|!165x165|!1049x1169) - reject
     - ^https:\/\/p0\.pipi\.cn\/adAdmin\/\w+\.jpg\?imageMogr2\/quality\/ - reject
     - ^https:\/\/patient-api\.suh\.cn\/apt\/api\/userinfo\/GetNotice\?appname=pmsys&channel=6&device=ios&language=1&source=2&version= - reject
@@ -103,6 +107,7 @@ http:
     - ^https:\/\/vip7\.fzwdyy\.cn:8083\/api\/(getAdvertInfo|getGOOGAdvert) - reject
     - ^https:\/\/web2\.realtech-inc\.com\/oss\/xc-app-assets\/configs\/common\/theme\.json - reject
     - ^https:\/\/webcast-open\.douyin\.com\/webcast\/openapi\/feed\/\? - reject
+    - ^https:\/\/www\.xiaoxiongmeishu\.com\/api\/(home\/v1\/config\/appInit|s\/v1\/popup\/createCouponPopup) - reject
     - ^https:\/\/www\.ymm56\.com\/short-distance-match-app\/openAppAd - reject
     - ^https:\/\/wx\.17u\.cn\/crapi\/query\/ad - reject
     - ^https:\/\/wxs-weixin\.sd\.zhumanggroup\.com\/api\/v2\/ad - reject
@@ -115,11 +120,15 @@ http:
     - ^https?://live-ads\.huya\.com/live/getAllEntrance.*$ - reject
     - ^https?://magev6.if.qidian.com/argus/api/v1/client/iosad - reject
     - ^https?://mbasecc\.bas\.cmbchina\.com/Edge/api/mlife\.clientface\.clientservice\.api\.advertiseService/preCacheAdvertiseSec - reject
+    - ^https?://nam\.veta\.naver\.com/gfp/v1\?u\=ios_papago_top - reject
     - ^https?://newclient\.map\.baidu\.com/client/crossmarketing - reject
     - ^https?://newclient\.map\.baidu\.com/client/usersystem/home/dynamic - reject
+    - ^https?://optimus-ads\.amap\.com/uploadimg/[a-zA-Z0-9]+\.gif - reject
     - ^https?://pagead2.googleadservices.com/pagead/adview - reject
+    - ^https?://pdapis\.pdnews\.cn/api/rmrb-bff-display-zh/display/zh/c/launchPage\? - reject
     - ^https?://pubads.g.doubleclick.net/gampad/ads - reject
     - ^https?://rs.creditcard.cmbc.com.cn/mmc/img/126f35586ece469aa2daf2e451ba7b4d.jpg - reject
+    - ^https?://superapp\.kiwa-tech\.com/app/ads/selectList - reject
     - ^https?:\/\/(api|api-bk\d+)\.tv\.sohu\.com\/agg\/api\/app\/config\/bootstrap - reject
     - ^https?:\/\/(api|b)\.zhuishushenqi\.com\/advert - reject
     - ^https?:\/\/(bdsp-x|dsp-x)\.jd\.com\/adx\/ - reject
@@ -339,6 +348,7 @@ http:
     - ^https?:\/\/api\.yizhibo\.com\/common\/api\/(api_)?pz$ - reject
     - ^https?:\/\/api\.yonghuivip\.com\/web\/shensuan\/ad\/getAd - reject
     - ^https?:\/\/api\.ys7\.com.*\/getAdvertising - reject
+    - ^https?:\/\/api\.zcool\.com\.cn\/.*common\/open-screen - reject
     - ^https?:\/\/api\.zhuishushenqi\.com\/notification\/shelfMessage - reject
     - ^https?:\/\/api\.zhuishushenqi\.com\/splashes\/ios - reject
     - ^https?:\/\/api\.zhuishushenqi\.com\/user\/bookshelf-updated - reject
@@ -379,6 +389,7 @@ http:
     - ^https?:\/\/app\.chinahxzq\.com\.cn\/starway\/adShow - reject
     - ^https?:\/\/app\.ddpai\.com\/d\/api\/v\d\/config\/get\/bootscreen - reject
     - ^https?:\/\/app\.dewu\.com\/api\/v\d\/app\/advertisement\/ - reject
+    - ^https?:\/\/app\.duxiaoman\.com\/walletapp\/misc\/app_startup - reject
     - ^https?:\/\/app\.flymodem\.com\.cn\/Appapi\/Public\/welecome - reject
     - ^https?:\/\/app\.hbooker\.com\/setting\/get_startpage_url_list - reject
     - ^https?:\/\/app\.homeinns\.com\/api\/landing - reject
@@ -738,6 +749,7 @@ http:
     - ^https?:\/\/list-app-m\.i4\.cn\/getopfstadinfo\.xhtml - reject
     - ^https?:\/\/lives\.l\.qq\.com\/livemsg\?sdtfrom= - reject
     - ^https?:\/\/lofter\.lf127\.net\/ad\-material - reject
+    - ^https?:\/\/lop-proxy\.jd\.com\/queryAppHomePageMarketingRecommendRuleConfigInfo - reject
     - ^https?:\/\/luckman\.suning\.com\/luck-web\/policy\/v\d\/msf\/index\.do - reject
     - ^https?:\/\/m-adphone\.wenhua\.com\.cn\/ - reject
     - ^https?:\/\/m1\.ad\.10010\.com\/noticeMag\/images\/imageUpload\/2\d{3} - reject
@@ -1117,7 +1129,6 @@ http:
     - ^https?:\/\/www\.xiaohongshu\.com\/api\/sns\/(v\d\/ads\/resource|v2\/hey\/\w+\/hey_gallery) - reject
     - ^https?:\/\/www\.xiaohongshu\.com\/api\/sns\/v\d\/ads\/ - reject
     - ^https?:\/\/www\.xiaohongshu\.com\/api\/sns\/v\d\/system_service\/splash_config - reject
-    - ^https?:\/\/www\.xiaoxiongmeishu\.com\/api\/home\/v1\/config\/appInit\?uid=588888763519696896 - reject
     - ^https?:\/\/www\.xqpark\.cn\/xqParkApp\/resource\/getResource - reject
     - ^https?:\/\/www\.zjyilin\.com\/hykweb\/\/index\/openImg - reject
     - ^https?:\/\/www\.zybang\.com\/adx\/ - reject
@@ -1368,6 +1379,7 @@ http:
     - "api.yizhibo.com"
     - "api.yonghuivip.com"
     - "api.ys7.com"
+    - "api.zcool.com.cn"
     - "api.zhuishushenqi.com"
     - "api1.34580.com"
     - "api2.helper.qq.com"
@@ -1400,6 +1412,7 @@ http:
     - "app.chinahxzq.com.cn"
     - "app.ddpai.com"
     - "app.dewu.com"
+    - "app.duxiaoman.com"
     - "app.flymodem.com.cn"
     - "app.hbooker.com"
     - "app.homeinns.com"
@@ -1556,6 +1569,7 @@ http:
     - "easyreadfs.nosdn.127.net"
     - "ebk.17u.cn"
     - "ecard.shenzhentong.com"
+    - "ecloud.tppension.cntaiping.com"
     - "edit.sinaapp.com"
     - "edith.xiaohongshu.com"
     - "editor.sm.cn"
@@ -1671,6 +1685,7 @@ http:
     - "imgcache.qq.com"
     - "imgx.jampp.com"
     - "impservice.dictapp.youdao.com"
+    - "info.mina.xiaoaisound.com"
     - "init.sms.mob.com"
     - "intellicc.bas.cmbchina.com"
     - "intellicc.bcs.cmbchina.com"
@@ -1706,6 +1721,7 @@ http:
     - "live.inst-service.htsc.com"
     - "lives.l.qq.com"
     - "lofter.lf127.net"
+    - "lop-proxy.jd.com"
     - "luckman.suning.com"
     - "m*.amap.com"
     - "m-adphone.wenhua.com.cn"
@@ -1793,6 +1809,7 @@ http:
     - "ms.jr.jd.com"
     - "msg.umengcloud.com"
     - "mxsa.mxbc.net"
+    - "nam.veta.naver.com"
     - "ndstatic.cdn.bcebos.com"
     - "nelo2-col.linecorp.com"
     - "new-app-api.ylyk.com"
@@ -1803,6 +1820,7 @@ http:
     - "nnapp.cloudbae.cn"
     - "notch.qdaily.com"
     - "notify.baicizhan.com"
+    - "ntt-app.benewtech.cn"
     - "obs.line-scdn.net"
     - "ocean.shuqireader.com"
     - "ocrifs.ejoy.sinopec.com"
@@ -1820,6 +1838,7 @@ http:
     - "operationapi.fosunhanig.com"
     - "optimus-ads.amap.com"
     - "oral.youdao.com"
+    - "order-app-api.lbdj.com"
     - "osg-service.sgcc.com.cn"
     - "osg-static.sgcc.com.cn"
     - "ossweb-img.qq.com"
@@ -1839,6 +1858,7 @@ http:
     - "pan.baidu.com"
     - "patient-api.suh.cn"
     - "patientgate.91160.com"
+    - "pdapis.pdnews.cn"
     - "peisongapi.meituan.com"
     - "photocdn.sohu.com"
     - "pic*.ajkimg.com"
@@ -1949,6 +1969,7 @@ http:
     - "staticsns.cdn.bcebos.com"
     - "statistic.live.126.net"
     - "status.boohee.com"
+    - "superapp.kiwa-tech.com"
     - "superapp.xgimi.com"
     - "support.you.163.com"
     - "supportda.ofo.com"

@@ -12,20 +12,20 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-11-14 02:14:48
+最后更新时间：2024-12-12 02:16:12
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 421  | 
 | DOMAIN-KEYWORD | 11  | 
-| DOMAIN-SUFFIX | 92162  | 
+| DOMAIN-SUFFIX | 97236  | 
 | IP-ASN | 1  | 
-| IP-CIDR | 8346  | 
-| IP-CIDR6 | 12475  | 
+| IP-CIDR | 8370  | 
+| IP-CIDR6 | 12618  | 
 | PROCESS-NAME | 12  | 
 | USER-AGENT | 65  | 
-| TOTAL | 113493  | 
+| TOTAL | 118734  | 
 
 
 ## Surge 
@@ -174,7 +174,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/HuaWei.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Tencent.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Tencent.list
-- https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/CMedia.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Media/DomesticMedia.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/NetEase.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Netease.list
